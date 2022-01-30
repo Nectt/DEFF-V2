@@ -1,6 +1,6 @@
 
 {
-  botname = "DEFFBOZ"
+  botname = "NecttBot"
 
 
   exports.apkmenu = (prefix) => {
